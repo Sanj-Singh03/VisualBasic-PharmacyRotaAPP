@@ -1,0 +1,160 @@
+C:\Users\sanja\source\repos\winProject\winProject\bin\Debug\EntityFramework.dll
+C:\Users\sanja\source\repos\winProject\winProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sanja\source\repos\winProject\winProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\sanja\source\repos\winProject\winProject\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\sanja\source\repos\winProject\winProject\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\sanja\source\repos\winProject\winProject\bin\Debug\EntityFramework.xml
+C:\Users\sanja\source\repos\winProject\winProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sanja\source\repos\winProject\winProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\sanja\source\repos\winProject\winProject\obj\Debug\winProject.vbprojAssemblyReference.cache
+C:\Users\sanja\source\repos\winProject\winProject\obj\Debug\winProject.Resources.resources
+C:\Users\sanja\source\repos\winProject\winProject\obj\Debug\winProject.vbproj.GenerateResource.cache
+C:\Users\sanja\source\repos\winProject\winProject\obj\Debug\winProject.vbproj.CoreCompileInputs.cache
+C:\Users\sanja\source\repos\winProject\winProject\obj\Debug\winProject.vbproj.CopyComplete
+C:\Users\sanja\source\repos\winProject\winProject\bin\Debug\RotaGUI.exe.config
+C:\Users\sanja\source\repos\winProject\winProject\bin\Debug\RotaGUI.exe
+C:\Users\sanja\source\repos\winProject\winProject\bin\Debug\RotaGUI.pdb
+C:\Users\sanja\source\repos\winProject\winProject\bin\Debug\RotaGUI.xml
+C:\Users\sanja\source\repos\winProject\winProject\obj\Debug\RotaGUI.exe
+C:\Users\sanja\source\repos\winProject\winProject\obj\Debug\RotaGUI.xml
+C:\Users\sanja\source\repos\winProject\winProject\obj\Debug\RotaGUI.pdb
+C:\Users\sanja\source\repos\winProject\winProject\obj\Debug\winProject.frmLogin.resources
+C:\Users\sanja\source\repos\winProject\winProject\obj\Debug\winProject.frmEmployees.resources
+C:\Users\sanja\source\repos\winProject\winProject\obj\Debug\winProject.frmMainMenu.resources
+C:\Users\sanja\source\repos\winProject\winProject\obj\Debug\winProject.frmHolidays.resources
+C:\Users\sanja\source\repos\winProject\winProject\obj\Debug\winProject.frmRota.resources
+C:\Users\sanja\source\repos\winProject\winProject\obj\Debug\winProject.frmGivHolidays.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\bin\Debug\RotaGUI.exe.config
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\bin\Debug\RotaGUI.exe
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\bin\Debug\RotaGUI.pdb
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\bin\Debug\RotaGUI.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\bin\Debug\EntityFramework.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\bin\Debug\EntityFramework.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\obj\Debug\winProject.vbprojAssemblyReference.cache
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\obj\Debug\winProject.frmEmployees.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\obj\Debug\winProject.frmGivHolidays.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\obj\Debug\winProject.frmHolidays.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\obj\Debug\winProject.frmLogin.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\obj\Debug\winProject.frmMainMenu.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\obj\Debug\winProject.Resources.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\obj\Debug\winProject.frmRota.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\obj\Debug\winProject.vbproj.GenerateResource.cache
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\obj\Debug\winProject.vbproj.CoreCompileInputs.cache
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\obj\Debug\winProject.vbproj.CopyComplete
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\obj\Debug\RotaGUI.exe
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\obj\Debug\RotaGUI.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2ss\winProject v2ss\winProject\obj\Debug\RotaGUI.pdb
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\bin\Debug\RotaGUI.exe.config
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\bin\Debug\RotaGUI.exe
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\bin\Debug\RotaGUI.pdb
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\bin\Debug\RotaGUI.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\bin\Debug\EntityFramework.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\bin\Debug\EntityFramework.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\obj\Debug\winProject.vbprojAssemblyReference.cache
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\obj\Debug\winProject.frmEmployees.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\obj\Debug\winProject.frmGivHolidays.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\obj\Debug\winProject.frmHolidays.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\obj\Debug\winProject.frmLogin.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\obj\Debug\winProject.frmMainMenu.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\obj\Debug\winProject.Resources.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\obj\Debug\winProject.frmRota.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\obj\Debug\winProject.vbproj.GenerateResource.cache
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\obj\Debug\winProject.vbproj.CoreCompileInputs.cache
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\obj\Debug\winProject.vbproj.CopyComplete
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\obj\Debug\RotaGUI.exe
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\obj\Debug\RotaGUI.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\obj\Debug\RotaGUI.pdb
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2sg\winProject v2ss\winProject\obj\Debug\winProject.frmStaffView.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\RotaGUI.exe.config
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\RotaGUI.exe
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\RotaGUI.pdb
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\RotaGUI.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\EntityFramework.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\EntityFramework.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.vbprojAssemblyReference.cache
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.frmEmployees.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.frmGivHolidays.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.frmHolidays.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.frmLogin.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.frmMainMenu.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.frmStaffView.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.Resources.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.frmRota.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.vbproj.GenerateResource.cache
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.vbproj.CoreCompileInputs.cache
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.vbproj.CopyComplete
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\RotaGUI.exe
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\RotaGUI.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\RotaGUI.pdb
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\RotaGUI.exe.config
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\RotaGUI.exe
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\RotaGUI.pdb
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\RotaGUI.xml
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\EntityFramework.dll
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\EntityFramework.xml
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.vbprojAssemblyReference.cache
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.frmEmployees.resources
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.frmGivHolidays.resources
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.frmHolidays.resources
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.frmLogin.resources
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.frmMainMenu.resources
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.frmStaffView.resources
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.Resources.resources
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.frmRota.resources
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.vbproj.GenerateResource.cache
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.vbproj.CoreCompileInputs.cache
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\winProject.vbproj.CopyComplete
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\RotaGUI.exe
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\RotaGUI.xml
+C:\Users\1903860\Desktop\winProject v2.1ss\winProject v2.1ss\winProject v2ss\winProject\obj\Debug\RotaGUI.pdb
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\bin\Debug\RotaGUI.exe.config
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\bin\Debug\RotaGUI.exe
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\bin\Debug\RotaGUI.pdb
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\bin\Debug\RotaGUI.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\bin\Debug\EntityFramework.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\bin\Debug\EntityFramework.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\obj\Debug\winProject.vbprojAssemblyReference.cache
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\obj\Debug\winProject.frmEmployees.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\obj\Debug\winProject.frmGivHolidays.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\obj\Debug\winProject.frmHolidays.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\obj\Debug\winProject.frmLogin.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\obj\Debug\winProject.frmMainMenu.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\obj\Debug\winProject.frmStaffView.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\obj\Debug\winProject.Resources.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\obj\Debug\winProject.frmRota.resources
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\obj\Debug\winProject.vbproj.GenerateResource.cache
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\obj\Debug\winProject.vbproj.CoreCompileInputs.cache
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\obj\Debug\winProject.vbproj.CopyComplete
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\obj\Debug\RotaGUI.exe
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\obj\Debug\RotaGUI.xml
+C:\Users\sanja\Documents\Colly Stuff\csi\nea\winProject\winProject\winProject\winProject\obj\Debug\RotaGUI.pdb
